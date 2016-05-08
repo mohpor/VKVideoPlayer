@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <QuartzCore/QuartzCore.h>
 #import <AVFoundation/AVFoundation.h>
-#import <DDLog.h>
+#import "DDLog.h"
 
 #import "VKFoundation.h"
 #import "DTAttributedLabel.h"
